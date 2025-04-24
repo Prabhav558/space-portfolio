@@ -1160,7 +1160,7 @@ const SpacePortfolio = () => {
               />
             ))}
             
-            {/* Minimap spaceship */}
+            {}
             <div
               className="absolute w-2 h-2 bg-cyan-400 rounded-full transform -translate-x-1/2 -translate-y-1/2 z-10"
               style={{
